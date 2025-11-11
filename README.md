@@ -2,6 +2,35 @@
 Homework BIL-377 lesson
 
 
+# Düzenleme Mesafesi Algoritması
+
+## Edit Distance nedir?
+İki string arasındaki farkı ölçmek için kullanılan bir algoritmadır.
+
+## Neden önemlidir?
+- yazım denetimi
+- metin normalizasyonu
+- DNA/RNA dizi karşılaştırma
+- yaklaşık arama
+- NLP uygulamaları
+
+## Algoritma Adımları
+1. DP tablosu oluştur (n+1 × m+1)
+2. İlk satır ve sütunu başlat
+3. Silme / ekleme / değiştirme arasında minimumu seç
+4. Sonuç dp[n][m]
+
+## Karmaşıklık
+Zaman: O(n*m)  
+Alan: O(n*m)
+
+## Örnek
+kitten → sitting  
+mesafe = 3
+
+## Sonuç
+Düzenleme mesafesi string benzerliğini ölçmede yaygın bir yöntemdir.
+
 
 ## Edit Distance (Levenshtein) — Dynamic Programming
 
@@ -202,4 +231,8 @@ Edit Distance is a powerful and widely used algorithm for string similarity.
 ```
 
 ---
+
+
+
+
 
