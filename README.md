@@ -1,4 +1,4 @@
-# edit-distance
+# Edit-Distance
 Homework BIL-377 lesson
 
 
@@ -94,7 +94,7 @@ print(edit_distance("kitten", "sitting"))
 
 ---
 
-## 💡 Example
+## Example
 
 Input:
 
@@ -171,7 +171,7 @@ This project provides a clean and ready-to-use implementation, following classic
 
 
 ```
-# Edit Distance Algorithm\
+# Edit Distance Algorithm
 
 ## What is Edit Distance?
 A metric for comparing two strings by counting the minimum number of required operations.
