@@ -171,7 +171,7 @@ This project provides a clean and ready-to-use implementation, following classic
 
 
 ```
-# Edit Distance Algorithm — Presentation
+# Edit Distance Algorithm\
 
 ## What is Edit Distance?
 A metric for comparing two strings by counting the minimum number of required operations.
